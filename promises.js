@@ -39,7 +39,6 @@ const getTitle = (bookId) => {
 
 const getAuthorsAndTitles = () => {
     let books;
-    let titles;
     let authors = [];
     let titlesByAuthors = [];
 
